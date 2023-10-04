@@ -14,7 +14,7 @@ A learning management system where users can enroll in courses and learn.
 Clone the project
 
 ```bash
-git clone https://github.com/ashish2675/smartLearn
+https://github.com/Amarish-2309/SmartLearn.git
 ```
 
 Go to the project project directory
